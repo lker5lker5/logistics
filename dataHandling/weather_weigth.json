@@ -1,0 +1,382 @@
+{
+  "record": [
+    {
+      "id": 200,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "thunderstorm with light rain"
+    },
+    {
+      "id": 201,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "thunderstorm with rain"
+    },
+    {
+      "id": 202,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "thunderstorm with heavy rain"
+    },
+    {
+      "id": 210,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "light thunderstorm"
+    },
+    {
+      "id": 211,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "thunderstorm"
+    },
+    {
+      "id": 212,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "heavy thunderstorm"
+    },
+    {
+      "id": 221,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "ragged thunderstorm"
+    },
+    {
+      "id": 230,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "thunderstorm with light drizzle"
+    },
+    {
+      "id": 231,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "thunderstorm with drizzle"
+    },
+    {
+      "id": 232,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "thunderstorm with heavy drizzle"
+    },
+    {
+      "id": 300,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "light intensity drizzle"
+    },
+    {
+      "id": 301,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "drizzle"
+    },
+    {
+      "id": 302,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "heavy intensity drizzle"
+    },
+    {
+      "id": 310,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "light intensity drizzle rain"
+    },
+    {
+      "id": 311,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "drizzle rain"
+    },
+    {
+      "id": 312,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "heavy intensity drizzle rain"
+    },
+    {
+      "id": 313,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "shower rain and drizzle"
+    },
+    {
+      "id": 314,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "heavy shower rain and drizzle"
+    },
+    {
+      "id": 321,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "shower drizzle"
+    },
+    {
+      "id": 500,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "light rain"
+    },
+    {
+      "id": 501,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "moderate rain"
+    },
+    {
+      "id": 502,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "heavy intensity rain"
+    },
+    {
+      "id": 503,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "very heavy rain"
+    },
+    {
+      "id": 504,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "extreme rain"
+    },
+    {
+      "id": 511,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "freezing rain"
+    },
+    {
+      "id": 520,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "light intensity shower rain"
+    },
+    {
+      "id": 521,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "shower rain"
+    },
+    {
+      "id": 522,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "heavy intensity shower rain"
+    },
+    {
+      "id": 531,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "ragged shower rain"
+    },
+    {
+      "id": 800,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "clear sky"
+    },
+    {
+      "id": 801,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "few clouds"
+    },
+    {
+      "id": 802,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "scattered clouds"
+    },
+    {
+      "id": 803,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "broken clouds"
+    },
+    {
+      "id": 804,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "overcast clouds"
+    },
+    {
+      "id": 900,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "tornado"
+    },
+    {
+      "id": 901,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "tropical storm"
+    },
+    {
+      "id": 902,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "hurricane"
+    },
+    {
+      "id": 903,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "cold"
+    },
+    {
+      "id": 904,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "hot"
+    },
+    {
+      "id": 905,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "windy"
+    },
+    {
+      "id": 906,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "hail"
+    },
+    {
+      "id": 951,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "calm"
+    },
+    {
+      "id": 952,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "light breeze"
+    },
+    {
+      "id": 953,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "gentle breeze"
+    },
+    {
+      "id": 954,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "moderate breeze"
+    },
+    {
+      "id": 955,
+      "weigth": 1,
+      "desc": "Good",
+      "meaning": "fresh breeze"
+    },
+    {
+      "id": 956,
+      "weigth": 2,
+      "desc": "OK",
+      "meaning": "strong breeze"
+    },
+    {
+      "id": 957,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "high wind, near gale"
+    },
+    {
+      "id": 958,
+      "weigth": 3,
+      "desc": "Bad",
+      "meaning": "gale"
+    },
+    {
+      "id": 959,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "severe gale"
+    },
+    {
+      "id": 960,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "storm"
+    },
+    {
+      "id": 961,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "violent storm"
+    },
+    {
+      "id": 962,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "hurricane"
+    },
+    {
+      "id": 600,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "light snow"
+    },
+    {
+      "id": 601,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "snow"
+    },
+    {
+      "id": 602,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "heavy snow"
+    },
+    {
+      "id": 611,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "sleet"
+    },
+    {
+      "id": 612,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "shower sleet"
+    },
+    {
+      "id": 615,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "light rain and snow"
+    },
+    {
+      "id": 616,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "rain and snow"
+    },
+    {
+      "id": 620,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "light shower snow"
+    },
+    {
+      "id": 621,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "shower snow"
+    },
+    {
+      "id": 622,
+      "weigth": 4,
+      "desc": "Very Bad",
+      "meaning": "heavy shower snow"
+    }
+  ]
+}
